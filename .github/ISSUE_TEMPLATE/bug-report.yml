@@ -1,0 +1,34 @@
+name: "\U0001F41E Relato de bug"
+description: Relate um bug para nos ajudar a melhorar este pacote
+labels: ["triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Leia atentamente as instruções para contribuir antes de relatar um bug
+        👉 https://github.com/poppinss/.github/blob/main/docs/CONTRIBUTING.md#reporting-bugs
+
+  - type: input
+    id: package-version
+    attributes:
+      label: Versão do pacote
+      description: Execute `npm info <nome-do-pacote> --depth=0` para consultar a versão do pacote.
+      placeholder: Versão do pacote
+    validations:
+      required: true
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Descreva o bug
+      description: Explique o problema de forma clara e objetiva.
+      placeholder: Descrição do bug
+    validations:
+      required: true
+  - type: input
+    id: reproduction-repo
+    attributes:
+      label: Repositório de reprodução
+      description: Link para um repositório que permita reproduzir o problema.
+      placeholder: Opcional, mas recomendado
+    validations:
+      required: false
