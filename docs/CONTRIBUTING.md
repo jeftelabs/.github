@@ -1,6 +1,6 @@
 # Como contribuir
 
-Este é um guia geral de contribuição para todos os repositórios da [Poppinss](https://github.com/poppinss). Leia-o com atenção antes de contribuir com qualquer um deles. 🙏
+Este é um guia geral de contribuição para todos os repositórios do [Jeftelabs](https://github.com/jeftelabs). Leia-o com atenção antes de contribuir com qualquer um deles. 🙏
 
 ## Como relatar problemas
 
