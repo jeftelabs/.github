@@ -36,7 +36,7 @@ Este Código de Conduta se aplica a todos os espaços da comunidade e também qu
 
 ## Aplicação
 
-Comportamentos abusivos, de assédio ou inaceitáveis podem ser comunicados às lideranças responsáveis pela aplicação deste código pelo endereço virk@adonisjs.com.
+Comportamentos abusivos, de assédio ou inaceitáveis podem ser comunicados às lideranças responsáveis pela aplicação deste código pelo endereço jefteamorim@gmail.com.
 
 Todas as denúncias serão analisadas e investigadas prontamente e com imparcialidade. As lideranças devem respeitar a privacidade e a segurança de quem relata um incidente.
 
