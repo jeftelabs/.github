@@ -4,7 +4,7 @@ Este repositório é o espaço central de trabalho dos projetos mantidos pela eq
 
 ## Sobre o JefteLabs
 
-JefteLabs reúne pequenos pacotes utilitários usados pela equipe do [AdonisJS](https://adonisjs.com/). Os pacotes são independentes e atendem a necessidades específicas, desde manipulação de objetos e strings até ferramentas para linha de comando, hooks e monitoramento de arquivos TypeScript.
+JefteLabs reúne pequenos pacotes utilitários usados pela equipe do [ArapucaJS](https://arapucajs.com/). Os pacotes são independentes e atendem a necessidades específicas, desde manipulação de objetos e strings até ferramentas para linha de comando, hooks e monitoramento de arquivos TypeScript.
 
 ## Pacotes com manutenção ativa
 
