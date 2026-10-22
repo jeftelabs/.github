@@ -1,6 +1,6 @@
 # JefteLabs
 
-JefteLabs é uma coleção de pequenos pacotes utilitários usados pela equipe do [AdonisJS](https://adonisjs.com/).
+JefteLabs é uma coleção de pequenos pacotes utilitários usados pela equipe do [ArapucaJS](https://arapucajs.com/).
 
 ## Pacotes com manutenção ativa
 
